@@ -1,4 +1,4 @@
-# Smart Grind-by-Weight
+# Smart Grind-by-Weight - user-configurable Coast Compensation setting (70%-150%)
 
 **Turn any grinder into a precision smart grind-by-weight system**
 
